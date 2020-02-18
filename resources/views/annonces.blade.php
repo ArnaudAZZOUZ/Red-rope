@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello World!!
+                    Propose un atelier!
                 </div>
 
                 <div class="links">
